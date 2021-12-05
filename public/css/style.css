@@ -1,0 +1,21 @@
+.p-20{
+    padding: 20px;
+}
+.error{
+    color: red;
+    font-size: 14px;
+    font-style: italic;
+    font-weight:600;
+}
+.card {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  }
+  .fixed-top {
+    top: -40px;
+    transform: translateY(40px);
+    transition: transform .3s;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.my-10 {
+    margin-top: 5rem!important;
+}
